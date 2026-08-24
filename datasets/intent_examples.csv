@@ -1,0 +1,16 @@
+intent,operation
+view files,READ
+list files,READ
+read a file,READ
+inspect a directory,READ
+create a file,CREATE
+create a folder,CREATE
+delete files,DELETE
+clean old files,DELETE
+copy a file,COPY
+move a file,MOVE
+change file permissions,PERMISSION_CHANGE
+stop a process,PROCESS_CONTROL
+download something,NETWORK
+change system configuration,SYSTEM_CONFIGURATION
+install a package,PACKAGE_CHANGE
