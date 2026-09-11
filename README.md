@@ -49,6 +49,4 @@ pytest
 
 User Goal -> Intent Engine -> Intent Contract -> Command Parser -> Risk/Impact -> Intent-Impact Alignment -> Impact Budget -> Safety Decision -> Safer Guidance
 
-## Hackathon honesty note
 
-All performance numbers in the final presentation must be measured from the actual test suite. Do not claim model accuracy without evaluation.
